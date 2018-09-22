@@ -26,4 +26,4 @@ You can fork this repository and then issue Pull request for review.
 
 ### Copyright 
 
-2014 Git showcase ...
+2014 Git showcase ... All rights reserved.
