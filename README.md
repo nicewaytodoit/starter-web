@@ -19,3 +19,7 @@ Easy way to deploy things
 It is so much thing to explain.
 
 At the end line to add in text form.
+
+### Copyright 
+
+2014 Git showcase ...
