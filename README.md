@@ -20,6 +20,8 @@ It is so much thing to explain.
 
 At the end line to add in text form.
 
+You can fork this repository and then issue Pull request for review.
+
 ### Copyright 
 
 2014 Git showcase ...
