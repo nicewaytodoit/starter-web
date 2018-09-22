@@ -15,3 +15,7 @@ Sample website with plenty of files for demos
 Easy way to deploy things
 
 ## How To Contribute
+
+It is so much thing to explain.
+
+At the end line to add in text form.
