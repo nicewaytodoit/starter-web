@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 Rebase example.
 More changes from the feature branch.
+Stash example 2.
 
 ## Introduction
 
